@@ -1,12 +1,27 @@
 # Flight-Management-System
+A school(AVV) project.
+## Description
+This is my project which is based on creating a flight management system using python.The backend has implementation of files.With this the users(user/staff) can monitor and administor their activities efficiently.
+##Things it consists of:
+Login page for indentification as staff or user
+#### User
+1.Search for a flight.
+2.Book Tickets for multiple people.
+3.Cancel multiple Tickets.
+4.Get information on all planes.
+#### Staff
+1.Add information for a new plane.
+2.Update information of a plane.
+3.Book Tickets for user.
+4.Cancel Tickets for user.
+5.Get information on all planes.
+6.Delete information of a plane.
 
-This is a Flight Management System.
+### Prequisites
+1.Python interpretor 
+2.IDE (eg. pycharm,VS code)
 
-Main.py contains the whole code and rest are the functions used in the code.
-
-Setup
-1.Download main.py and the text files in the repo.
-
-2. Password for staff is STAFF123#
-
-3. You can now use the program.
+### How to run
+1.Open IDE.
+2.Make sure you have the text files downloaded in the same directory as the main.py.
+3. Password for staff is STAFF123#
