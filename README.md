@@ -36,6 +36,5 @@ Login page for indentification as staff or user
 1.Open IDE.
 
 2.Make sure you have the text files downloaded in the same directory as the main.py.
-
 3. Password for staff is STAFF123#
    
