@@ -2,7 +2,7 @@
 A school(AVV) project.
 ## Description
 This is my project which is based on creating a flight management system using python.The backend has implementation of files.With this the users(user/staff) can monitor and administor their activities efficiently.
-##Things it consists of:
+## Things it consists of:
 Login page for indentification as staff or user
 #### User
 1.Search for a flight.
